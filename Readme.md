@@ -6,3 +6,5 @@ To spread technology & produce skilled developers in Pakistan. Techna has taken 
 
 To know more about us
 Visit: https://techna.pk
+
+![website](screenshot.jpg)
